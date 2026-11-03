@@ -1,6 +1,6 @@
 # Estudio legal
 
-Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con veinte estudios en cinco carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
+Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con treinta estudios en ocho carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
 
 ## Carpetas y orden sugerido de lectura
 
@@ -39,9 +39,24 @@ Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctic
 19. Concurso mercantil y reestructuras
 20. Arbitraje comercial y mecanismos alternativos
 
-## Próximas carpetas
+**Notarial y registral**
 
-En preparación, en este orden: Notarial y registral, cumplimiento y legal tech.
+21. Función notarial y protocolizaciones
+22. Registros públicos: propiedad, comercio y garantías
+23. Escrituración inmobiliaria y sus impuestos
+
+**Cumplimiento**
+
+24. Antilavado: actividades vulnerables
+25. Anticorrupción y responsabilidad penal de la empresa
+26. Beneficiario controlador
+
+**Legal tech**
+
+27. IA generativa en el despacho
+28. Regulación de la IA y datos personales
+29. Prueba y firma electrónica
+30. Legal engineering y legal ops
 
 La app guarda tu avance y tiene tarjetas y quiz por estudio, Repaso del día con repetición espaciada, examen por carpeta, preguntas de desarrollo con respuesta modelo, certificados por carpeta, buscador (tecla «/»), glosario con modo de tarjetas y una página con todas las calculadoras. Una vez abierta, funciona sin internet y se actualiza sola al volver a conectarse.
 
