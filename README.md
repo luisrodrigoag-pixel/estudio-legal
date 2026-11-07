@@ -1,6 +1,6 @@
 # Estudio legal
 
-Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con treinta estudios en ocho carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
+Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con treinta y nueve estudios en doce carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
 
 ## Carpetas y orden sugerido de lectura
 
@@ -19,44 +19,69 @@ Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctic
 8. Garantías y fideicomiso
 9. Servicios, mandato y mutuo
 
+**Consumidor, financiero y condominios**
+
+10. Reclamaciones ante la CONDUSEF
+11. Operaciones no reconocidas y responsabilidad del banco
+
 **Fiscal y defensa ante el SAT**
 
-10. Facultades de comprobación del SAT
-11. Operaciones simuladas: el 69-B y los delitos fiscales
-12. Medios de defensa fiscal
+12. ISR de las personas morales
+13. CFDI y facturación
+14. Facultades de comprobación del SAT
+15. Operaciones simuladas: el 69-B y los delitos fiscales
+16. Medios de defensa fiscal
 
 **Laboral y seguridad social**
 
-13. La relación de trabajo
-14. Subcontratación, REPSE e inspecciones
-15. Terminación, finiquito y juicio laboral
-16. Seguridad social: IMSS e INFONAVIT para el patrón
+17. La relación de trabajo
+18. Subcontratación, REPSE e inspecciones
+19. Terminación, finiquito y juicio laboral
+20. Seguridad social: IMSS e INFONAVIT para el patrón
+
+**Administrativo y regulatorio**
+
+21. Contratación pública
+22. Regulación de la seguridad privada
 
 **Amparo y litigio mercantil**
 
-17. El juicio de amparo
-18. Juicios mercantiles y cobranza judicial
-19. Concurso mercantil y reestructuras
-20. Arbitraje comercial y mecanismos alternativos
+23. El juicio de amparo
+24. Juicios mercantiles y cobranza judicial
+25. Concurso mercantil y reestructuras
+26. Arbitraje comercial y mecanismos alternativos
+
+**Penal empresarial**
+
+27. Fraude, abuso de confianza y administración fraudulenta
 
 **Notarial y registral**
 
-21. Función notarial y protocolizaciones
-22. Registros públicos: propiedad, comercio y garantías
-23. Escrituración inmobiliaria y sus impuestos
+28. Función notarial y protocolizaciones
+29. Registros públicos: propiedad, comercio y garantías
+30. Escrituración inmobiliaria y sus impuestos
+
+**Familia y sucesiones**
+
+31. Sucesiones
+32. Restitución internacional de menores
 
 **Cumplimiento**
 
-24. Antilavado: actividades vulnerables
-25. Anticorrupción y responsabilidad penal de la empresa
-26. Beneficiario controlador
+33. Antilavado: actividades vulnerables
+34. Anticorrupción y responsabilidad penal de la empresa
+35. Beneficiario controlador
 
 **Legal tech**
 
-27. IA generativa en el despacho
-28. Regulación de la IA y datos personales
-29. Prueba y firma electrónica
-30. Legal engineering y legal ops
+36. IA generativa en el despacho
+37. Regulación de la IA y datos personales
+38. Prueba y firma electrónica
+39. Legal engineering y legal ops
+
+## Próximas carpetas
+
+En preparación, en este orden:  y Propiedad intelectual.
 
 La app guarda tu avance y tiene tarjetas y quiz por estudio, Repaso del día con repetición espaciada, examen por carpeta, preguntas de desarrollo con respuesta modelo, certificados por carpeta, buscador (tecla «/»), glosario con modo de tarjetas y una página con todas las calculadoras. Una vez abierta, funciona sin internet y se actualiza sola al volver a conectarse.
 

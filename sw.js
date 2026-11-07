@@ -4,7 +4,7 @@
    index y del manifiesto, así que cada build instala una caché nueva y borra las viejas. El ensamblador
    sustituye también PREFIJO (estudio-financiero- o estudio-legal-) y NOMBRE. */
 'use strict';
-const VERSION = 'ba289429a09c';
+const VERSION = 'a8d455b3eb6c';
 const PREFIX = 'estudio-legal-';   // propio de cada mundo: un build sólo borra cachés de su sitio
 const CACHE = PREFIX + VERSION;
 const SCOPE = self.registration.scope;
