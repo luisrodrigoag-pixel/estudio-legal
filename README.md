@@ -1,6 +1,6 @@
 # Estudio legal
 
-Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con cuarenta y nueve estudios en trece carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
+Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con cincuenta y seis estudios en trece carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
 
 ## Carpetas y orden sugerido de lectura
 
@@ -23,80 +23,87 @@ Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctic
 
 10. Reclamaciones ante la CONDUSEF
 11. Operaciones no reconocidas y responsabilidad del banco
+12. PROFECO y protección al consumidor
+13. Régimen de propiedad en condominio
 
 **Fiscal y defensa ante el SAT**
 
-12. ISR de las personas morales
-13. CFDI y facturación
-14. Facultades de comprobación del SAT
-15. Operaciones simuladas: el 69-B y los delitos fiscales
-16. Medios de defensa fiscal
+14. ISR de las personas morales
+15. IVA de las empresas
+16. CFDI y facturación
+17. Operaciones con partes relacionadas
+18. Facultades de comprobación del SAT
+19. Operaciones simuladas: el 69-B y los delitos fiscales
+20. Medios de defensa fiscal
 
 **Laboral y seguridad social**
 
-17. La relación de trabajo
-18. Subcontratación, REPSE e inspecciones
-19. Terminación, finiquito y juicio laboral
-20. Seguridad social: IMSS e INFONAVIT para el patrón
+21. La relación de trabajo
+22. Subcontratación, REPSE e inspecciones
+23. Terminación, finiquito y juicio laboral
+24. Seguridad social: IMSS e INFONAVIT para el patrón
 
 **Administrativo y regulatorio**
 
-21. Contratación pública
-22. Regulación de la seguridad privada
+25. Procedimiento administrativo
+26. Licencias y permisos para operar un negocio
+27. Contratación pública
+28. Regulación de la seguridad privada
 
 **Amparo y litigio mercantil**
 
-23. El juicio de amparo
-24. Juicios mercantiles y cobranza judicial
-25. Concurso mercantil y reestructuras
-26. Arbitraje comercial y mecanismos alternativos
+29. El juicio de amparo
+30. Juicios mercantiles y cobranza judicial
+31. Concurso mercantil y reestructuras
+32. Arbitraje comercial y mecanismos alternativos
 
 **Penal empresarial**
 
-27. Fraude, abuso de confianza y administración fraudulenta
-28. Otros delitos contra y desde la empresa
-29. El proceso penal acusatorio para la empresa
-30. Investigaciones internas, cateos y bloqueo de cuentas
+33. Fraude, abuso de confianza y administración fraudulenta
+34. Otros delitos contra y desde la empresa
+35. El proceso penal acusatorio para la empresa
+36. Investigaciones internas, cateos y bloqueo de cuentas
 
 **Notarial y registral**
 
-31. Función notarial y protocolizaciones
-32. Registros públicos: propiedad, comercio y garantías
-33. Escrituración inmobiliaria y sus impuestos
+37. Función notarial y protocolizaciones
+38. Registros públicos: propiedad, comercio y garantías
+39. Escrituración inmobiliaria y sus impuestos
 
 **Familia y sucesiones**
 
-34. Sucesiones
-35. Restitución internacional de menores
+40. Régimen matrimonial, divorcio y alimentos
+41. Sucesiones
+42. Restitución internacional de menores
 
 **Cumplimiento**
 
-36. Antilavado: actividades vulnerables
-37. Anticorrupción y responsabilidad penal de la empresa
-38. Beneficiario controlador
+43. Antilavado: actividades vulnerables
+44. Anticorrupción y responsabilidad penal de la empresa
+45. Beneficiario controlador
 
 **Legal tech**
 
-39. IA generativa en el despacho
-40. Regulación de la IA y datos personales
-41. Prueba y firma electrónica
+46. IA generativa en el despacho
+47. Regulación de la IA y datos personales
+48. Prueba y firma electrónica
 
 **Legal engineering**
 
-42. Legal engineering y legal ops
-43. Automatización documental
-44. Agentes de IA y flujos legales
-45. Datos y tableros legales
-46. Gestión del conocimiento jurídico
-47. Legal design y lenguaje claro
-48. Producto legal y carrera del legal engineer
-49. Ciberseguridad del despacho
+49. Legal engineering y legal ops
+50. Automatización documental
+51. Agentes de IA y flujos legales
+52. Datos y tableros legales
+53. Gestión del conocimiento jurídico
+54. Legal design y lenguaje claro
+55. Producto legal y carrera del legal engineer
+56. Ciberseguridad del despacho
 
 ## Próximas carpetas
 
 En preparación, en este orden:  y Propiedad intelectual.
 
-La app guarda tu avance y tiene tarjetas y quiz por estudio, Repaso del día con repetición espaciada, examen por carpeta, preguntas de desarrollo con respuesta modelo, certificados por carpeta, buscador (tecla «/»), glosario con modo de tarjetas y una página con todas las calculadoras. Una vez abierta, funciona sin internet y se actualiza sola al volver a conectarse.
+La app guarda tu avance y tiene tarjetas y quiz por estudio, Repaso del día con repetición espaciada, examen por carpeta, preguntas de desarrollo con respuesta modelo, una ficha de un minuto en cada estudio, la entrada «¿Qué te llegó?» con 38 situaciones, diagramas de procedimientos con agenda de plazos, casos prácticos con puntaje, índice de leyes, certificados por carpeta, buscador (tecla «/»), glosario con modo de tarjetas y una página con todas las calculadoras. Una vez abierta, funciona sin internet y se actualiza sola al volver a conectarse.
 
 La valuación, las finanzas de la compra y los casos de M&A están en el Estudio financiero, en https://luisrodrigoag-pixel.github.io/estudio-financiero/. Los enlaces de un sitio al otro se abren en una pestaña nueva y el glosario es el mismo en los dos. La primera vez que se abre en un dispositivo donde ya se usaba el Estudio financiero, importa el avance que había en estos estudios: secciones leídas, tiempos, notas, quiz, tarjetas, repaso del día y preguntas de desarrollo. El Estudio financiero conserva su copia.
 
