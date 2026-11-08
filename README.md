@@ -1,6 +1,6 @@
 # Estudio legal
 
-Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con treinta y nueve estudios en doce carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
+Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con cuarenta y nueve estudios en trece carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
 
 ## Carpetas y orden sugerido de lectura
 
@@ -54,30 +54,43 @@ Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctic
 **Penal empresarial**
 
 27. Fraude, abuso de confianza y administración fraudulenta
+28. Otros delitos contra y desde la empresa
+29. El proceso penal acusatorio para la empresa
+30. Investigaciones internas, cateos y bloqueo de cuentas
 
 **Notarial y registral**
 
-28. Función notarial y protocolizaciones
-29. Registros públicos: propiedad, comercio y garantías
-30. Escrituración inmobiliaria y sus impuestos
+31. Función notarial y protocolizaciones
+32. Registros públicos: propiedad, comercio y garantías
+33. Escrituración inmobiliaria y sus impuestos
 
 **Familia y sucesiones**
 
-31. Sucesiones
-32. Restitución internacional de menores
+34. Sucesiones
+35. Restitución internacional de menores
 
 **Cumplimiento**
 
-33. Antilavado: actividades vulnerables
-34. Anticorrupción y responsabilidad penal de la empresa
-35. Beneficiario controlador
+36. Antilavado: actividades vulnerables
+37. Anticorrupción y responsabilidad penal de la empresa
+38. Beneficiario controlador
 
 **Legal tech**
 
-36. IA generativa en el despacho
-37. Regulación de la IA y datos personales
-38. Prueba y firma electrónica
-39. Legal engineering y legal ops
+39. IA generativa en el despacho
+40. Regulación de la IA y datos personales
+41. Prueba y firma electrónica
+
+**Legal engineering**
+
+42. Legal engineering y legal ops
+43. Automatización documental
+44. Agentes de IA y flujos legales
+45. Datos y tableros legales
+46. Gestión del conocimiento jurídico
+47. Legal design y lenguaje claro
+48. Producto legal y carrera del legal engineer
+49. Ciberseguridad del despacho
 
 ## Próximas carpetas
 
