@@ -1,6 +1,6 @@
 # Estudio legal
 
-Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con cincuenta y seis estudios en trece carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
+Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctica. Es una sola página con sesenta y tres estudios en catorce carpetas, que seguirá creciendo. Cada estudio parte de la ley, la jurisprudencia y los casos, cita fuentes primarias y señala lo que no se pudo verificar.
 
 ## Carpetas y orden sugerido de lectura
 
@@ -18,90 +18,96 @@ Notas de estudio de Luis Rodrigo Aguilar sobre derecho mexicano para la práctic
 7. Promesa, compraventa y arrendamiento
 8. Garantías y fideicomiso
 9. Servicios, mandato y mutuo
+10. Suministro, distribución y comisión mercantil
+11. La franquicia
+12. Contrato de obra a precio alzado
+13. Confidencialidad y no competencia
+
+**Propiedad intelectual**
+
+14. Marcas y signos distintivos
+15. Derechos de autor y software
+16. Secretos industriales y defensa de la propiedad intelectual
 
 **Consumidor, financiero y condominios**
 
-10. Reclamaciones ante la CONDUSEF
-11. Operaciones no reconocidas y responsabilidad del banco
-12. PROFECO y protección al consumidor
-13. Régimen de propiedad en condominio
+17. Reclamaciones ante la CONDUSEF
+18. Operaciones no reconocidas y responsabilidad del banco
+19. PROFECO y protección al consumidor
+20. Régimen de propiedad en condominio
 
 **Fiscal y defensa ante el SAT**
 
-14. ISR de las personas morales
-15. IVA de las empresas
-16. CFDI y facturación
-17. Operaciones con partes relacionadas
-18. Facultades de comprobación del SAT
-19. Operaciones simuladas: el 69-B y los delitos fiscales
-20. Medios de defensa fiscal
+21. ISR de las personas morales
+22. IVA de las empresas
+23. CFDI y facturación
+24. Operaciones con partes relacionadas
+25. Facultades de comprobación del SAT
+26. Operaciones simuladas: el 69-B y los delitos fiscales
+27. Medios de defensa fiscal
 
 **Laboral y seguridad social**
 
-21. La relación de trabajo
-22. Subcontratación, REPSE e inspecciones
-23. Terminación, finiquito y juicio laboral
-24. Seguridad social: IMSS e INFONAVIT para el patrón
+28. La relación de trabajo
+29. Subcontratación, REPSE e inspecciones
+30. Terminación, finiquito y juicio laboral
+31. Seguridad social: IMSS e INFONAVIT para el patrón
 
 **Administrativo y regulatorio**
 
-25. Procedimiento administrativo
-26. Licencias y permisos para operar un negocio
-27. Contratación pública
-28. Regulación de la seguridad privada
+32. Procedimiento administrativo
+33. Licencias y permisos para operar un negocio
+34. Contratación pública
+35. Regulación de la seguridad privada
 
 **Amparo y litigio mercantil**
 
-29. El juicio de amparo
-30. Juicios mercantiles y cobranza judicial
-31. Concurso mercantil y reestructuras
-32. Arbitraje comercial y mecanismos alternativos
+36. El juicio de amparo
+37. Juicios mercantiles y cobranza judicial
+38. Concurso mercantil y reestructuras
+39. Arbitraje comercial y mecanismos alternativos
 
 **Penal empresarial**
 
-33. Fraude, abuso de confianza y administración fraudulenta
-34. Otros delitos contra y desde la empresa
-35. El proceso penal acusatorio para la empresa
-36. Investigaciones internas, cateos y bloqueo de cuentas
+40. Fraude, abuso de confianza y administración fraudulenta
+41. Otros delitos contra y desde la empresa
+42. El proceso penal acusatorio para la empresa
+43. Investigaciones internas, cateos y bloqueo de cuentas
 
 **Notarial y registral**
 
-37. Función notarial y protocolizaciones
-38. Registros públicos: propiedad, comercio y garantías
-39. Escrituración inmobiliaria y sus impuestos
+44. Función notarial y protocolizaciones
+45. Registros públicos: propiedad, comercio y garantías
+46. Escrituración inmobiliaria y sus impuestos
 
 **Familia y sucesiones**
 
-40. Régimen matrimonial, divorcio y alimentos
-41. Sucesiones
-42. Restitución internacional de menores
+47. Régimen matrimonial, divorcio y alimentos
+48. Sucesiones
+49. Restitución internacional de menores
 
 **Cumplimiento**
 
-43. Antilavado: actividades vulnerables
-44. Anticorrupción y responsabilidad penal de la empresa
-45. Beneficiario controlador
+50. Antilavado: actividades vulnerables
+51. Anticorrupción y responsabilidad penal de la empresa
+52. Beneficiario controlador
 
 **Legal tech**
 
-46. IA generativa en el despacho
-47. Regulación de la IA y datos personales
-48. Prueba y firma electrónica
+53. IA generativa en el despacho
+54. Regulación de la IA y datos personales
+55. Prueba y firma electrónica
 
 **Legal engineering**
 
-49. Legal engineering y legal ops
-50. Automatización documental
-51. Agentes de IA y flujos legales
-52. Datos y tableros legales
-53. Gestión del conocimiento jurídico
-54. Legal design y lenguaje claro
-55. Producto legal y carrera del legal engineer
-56. Ciberseguridad del despacho
-
-## Próximas carpetas
-
-En preparación, en este orden:  y Propiedad intelectual.
+56. Legal engineering y legal ops
+57. Automatización documental
+58. Agentes de IA y flujos legales
+59. Datos y tableros legales
+60. Gestión del conocimiento jurídico
+61. Legal design y lenguaje claro
+62. Producto legal y carrera del legal engineer
+63. Ciberseguridad del despacho
 
 La app guarda tu avance y tiene tarjetas y quiz por estudio, Repaso del día con repetición espaciada, examen por carpeta, preguntas de desarrollo con respuesta modelo, una ficha de un minuto en cada estudio, la entrada «¿Qué te llegó?» con 38 situaciones, diagramas de procedimientos con agenda de plazos, casos prácticos con puntaje, índice de leyes, certificados por carpeta, buscador (tecla «/»), glosario con modo de tarjetas y una página con todas las calculadoras. Una vez abierta, funciona sin internet y se actualiza sola al volver a conectarse.
 
